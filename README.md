@@ -1,6 +1,6 @@
 - Hi, I’m @rgrachik
 - I am learning Swift programming language.
-- 
+
 
 
 <!---
