@@ -1,7 +1,4 @@
 - Hi, I’m @rgrachik
-- I am software engineer
-- 
-
 
 
 <!---
